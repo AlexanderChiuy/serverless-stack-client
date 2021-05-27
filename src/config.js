@@ -1,4 +1,5 @@
 const config = {
+  STRIPE_KEY: "pk_test_51IvkmVHlxd6QEi81DbmRqIYEEP9UjTzMTNPxc8Njn295RuVqguk92zAAcbZIQ25neXrrtLmwlM5hWdOOJoMJ6LsI00glWxkESd",
   s3: {
     REGION: "us-east-2",
     BUCKET: "notes-app-images",
